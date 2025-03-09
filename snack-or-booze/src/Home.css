@@ -1,0 +1,16 @@
+.item-link {
+   text-decoration: underline;
+   color: white;
+}
+
+.item-link:hover {
+   color: rgb(184, 184, 184);
+}
+
+ul {
+   padding: 0;
+}
+
+li {
+   list-style: none;
+}
